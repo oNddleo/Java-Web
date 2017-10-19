@@ -1,0 +1,17 @@
+.footer{
+	background: #333;
+    color: white;
+    width: 100%;
+    height: auto;
+}
+.footer-top{
+	display: flex;
+}
+.footer-news{
+	margin: 1px 10px 50px 55px;
+	padding: 1px 10px 1px 10px;
+}
+.footer-about-website{
+	margin: 1px 10px 50px 100px;
+	padding: 1px 10px 1px 10px;
+}
